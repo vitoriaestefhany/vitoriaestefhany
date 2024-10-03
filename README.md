@@ -2,7 +2,7 @@
 
 - 🔭 Hoje sou estudante de Sistemas De Informação
 - 🌱 Estudando HTML, CSS e Javascript
-- 😄 Pronouns: Ela/Dela 
+- 😄 Pronouns: Ela/Dela  
 
 <a href="https://github.com/vitoriaestefhany/github-readme-stats">
   <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=vitoriaestefhany&show_icons=true&theme=dracula" />
