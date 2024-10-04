@@ -18,14 +18,14 @@
 
  ##
 
- <div> 
+<div> 
   <a href = "vitoriaestefhany35@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitória-estéfhany-6b9984330" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/vitória-estéfhany-6b9984330" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 
 <p align="right" >
   <img width="200" height="200" src="https://github.com/user-attachments/assets/7c2a0727-6cbb-4ac7-a7b8-7cabae06e8f0" alt="baby yoda2" />
 </p>
+
 
 
